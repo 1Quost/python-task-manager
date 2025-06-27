@@ -1,19 +1,4 @@
-#You will simulate a task manager.
-#The program will generate an X number of tasks (input from the user). Each task will have a title, duration (in mins)
-# and a priority (also input from the user), lower value of priority the higher it is.
-# Use a single list to hold the tasks in it and to be used as a queue.
-
-#You will implement your own functions for the queue (insert, extract, peek, is_empty).
-#Your program will have the following functions (other than the queue related ones):
-#`complete_next_task`: will take the queue as argument and will print and extract the highest priority task
-#`search_for_task`: will take the queue and title as arguments and search for that set title. (you have to use Binary Search Algorithm)
-#`sort_tasks`: will take queue as argument and will return a new queue have tasks sorted duration (ascending or descending your choice)
-#make all the needed checks for the inputs and handle exceptions.
-
-
-
-# ---------------- Queue Functions ----------------
-
+#Task Manager:
 def insert(queue, task):
     queue.append(task)
 
