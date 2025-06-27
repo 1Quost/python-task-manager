@@ -39,7 +39,8 @@ The project demonstrates custom queue handling, binary search, and sorting — g
 
    
 2. Run the script using Python:
-```python task_manager.py
+```bash
+python task_manager.py
 
 
 
