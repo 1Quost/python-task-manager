@@ -1,4 +1,4 @@
-# 🧠 Task Manager Simulator (Python CLI)
+# 🧠 Task Manager Simulator 
 
 A simple Python command-line task manager that uses a queue-based system to manage tasks by priority, duration, and title. 
 The project demonstrates custom queue handling, binary search, and sorting — great for learning data structures and control flow.
@@ -35,9 +35,11 @@ The project demonstrates custom queue handling, binary search, and sorting — g
 1. **Clone the repo** or copy the code into a `.py` file:
    ```bash
    git clone https://github.com/yourusername/task-manager-python.git
-   cd task-manager-python```
+   cd task-manager-python
+
+   
 2. Run the script using Python:
 ```python task_manager.py
-```
+
 
 
